@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-rafi&show_icons=true&locale=en" alt="shariar-rafi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariar-rafi&" alt="shariar-rafi" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=Shariar-Rafi)](https://git.io/streak-stats)</p>
