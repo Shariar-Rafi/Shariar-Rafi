@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariar-rafi&show_icons=true&locale=en" alt="shariar-rafi" /></p>
 
-<a src="https://www.freecodecamp.org/certification/Md_Monem_Shariar_Rafi/javascript-algorithms-and-data-structures">Javascript Algorithmsand Data Structures Certificate</a>
+<a href="https://www.freecodecamp.org/certification/Md_Monem_Shariar_Rafi/javascript-algorithms-and-data-structures">Javascript Algorithmsand Data Structures Certificate</a>
