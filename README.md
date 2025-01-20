@@ -1,4 +1,4 @@
-![logo](https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/My%20Github%20Banner.png)
 <meta charset="UTF-8">
 <h1 align="center">Hello World👋, I'm <b>Shariar Rafi</b></h1>
 <h3 align="center"><i>A passionate learner from <a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh&nbsp;<img align="center" width="30" src="https://em-content.zobj.net/thumbs/160/facebook/327/flag-bangladesh_1f1e7-1f1e9.png"> </i></a>  </h3>
