@@ -5,7 +5,6 @@
 
 <img align="right" width="300" src="https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/image-asset.gif?raw=true">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariar-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="shariar-rafi" /> </p>
 
 - 📫 How to reach me **shariar.rafi364@gmail.com**
