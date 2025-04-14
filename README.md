@@ -5,9 +5,9 @@
 <h3 align="center"><i>A passionate learner from <a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh&nbsp;<img align="center" width="30" src="https://em-content.zobj.net/thumbs/160/facebook/327/flag-bangladesh_1f1e7-1f1e9.png"> </i></a>  </h3>
 
 <img align="right" width="300" src="https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/image-asset.gif?raw=true">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariar-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="shariar-rafi" /> </p>
-<br>
 
 - 📫 How to reach me **shariar.rafi364@gmail.com**
 
