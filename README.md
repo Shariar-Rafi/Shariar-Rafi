@@ -1,4 +1,4 @@
-![logo](https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/My%20Github%20Banner.png)
+![logo](https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/shariar-rafi-github-banner.png)
 <meta charset="UTF-8">
 <h1 align="center">Hello World👋, I'm <b>Shariar Rafi</b></h1>
 
