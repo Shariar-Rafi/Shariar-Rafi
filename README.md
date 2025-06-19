@@ -1,6 +1,7 @@
 ![logo](https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/md_monem_shariar_rafi_linkedin_banner.png)
 <meta charset="UTF-8">
 <h1 align="center">Hello World👋, I'm <b>Shariar Rafi</b></h1>
+
 <h3 align="center"><i>A passionate learner from <a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh&nbsp;<img align="center" width="30" src="https://em-content.zobj.net/thumbs/160/facebook/327/flag-bangladesh_1f1e7-1f1e9.png"> </i></a></h3>
 
 <img align="right" width="280" src="https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/image-asset.gif?raw=true">
