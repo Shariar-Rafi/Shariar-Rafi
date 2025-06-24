@@ -1,7 +1,6 @@
 ![logo](https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/md_monem_shariar_rafi_linkedin_banner.png)
 <meta charset="UTF-8">
 <h1 align="center">Hello World👋, I'm <b>Shariar Rafi</b></h1>
-
 <h3 align="center"><i>A passionate learner from <a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh&nbsp;<img align="center" width="30" src="https://em-content.zobj.net/thumbs/160/facebook/327/flag-bangladesh_1f1e7-1f1e9.png"> </i></a></h3>
 
 <img align="right" width="280" src="https://github.com/Shariar-Rafi/Shariar-Rafi/blob/main/image-asset.gif?raw=true">
@@ -14,8 +13,7 @@
 
 <p align="left">
   
-<a href="https://www.linkedin.com/in/md-monem-shariar-rafi/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shariar-rafi" height="30" width="40" /></a>  
-<a href="https://fb.com/shariar.rafi.364" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shariar.rafi.364" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/md-monem-shariar-rafi/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shariar-rafi" height="30" width="40" /></a> <a href="https://fb.com/shariar.rafi.364" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shariar.rafi.364" height="30" width="40" /></a>  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
