@@ -17,7 +17,7 @@
 
 ---
 
-## About Me
+## ℹ️ About Me
 
 - I'm a **dedicated frontend developer** constantly exploring modern web technologies
 - I love building clean, responsive, and user-friendly interfaces
