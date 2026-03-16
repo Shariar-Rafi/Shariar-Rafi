@@ -21,11 +21,9 @@
 
 - I'm a **dedicated frontend developer** constantly exploring modern web technologies
 - I love building clean, responsive, and user-friendly interfaces
+- Currently focused on mastering **React.js**, **Next.js** and **Full-stack Development**
 - Always eager to learn, collaborate, and contribute to exciting projects
-- Currently focused on mastering **Next.js**, **React.js** and full-stack development
-- Reach me at: **shariar.rafi364@gmail.com**
-
----
+- Reach me at: **shariar.rafi364@gmail.com** 📧
 
 ## 🛠️ Languages & Tools
 
